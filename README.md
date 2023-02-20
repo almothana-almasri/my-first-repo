@@ -9,6 +9,7 @@
 * How to connect a remote repo to a local machine
 * How to update changes from local machine to the remote repo
 * What is the difference between ***GUI*** and ***CLI*** and how to navigate through Linux using ***CLI***
+* What does **A-C-P** stands for (add,commit,push) and how to excute the commands while explaining the changes I have done in git commit -m"here".
 
 ## **The main points that I have learned from "Learn the fundamentals of a good developer mindset in 15 minutes"**
 
